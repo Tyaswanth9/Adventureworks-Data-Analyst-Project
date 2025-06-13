@@ -211,7 +211,7 @@ order by year asc;
 ![image](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/s6.png)
 
 ---
-##  Key Insights
+##  Conclusion 
 
 -  **2013** was the top-performing year for **sales**, **orders**, and **profit**.
 -  **June** consistently recorded the highest sales across all years due to holiday seasons.
