@@ -43,7 +43,7 @@ The dataset includes the following 8 files:
 
 ## data modeling:
 
-![datamodeling]()
+![datamodeling](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project/blob/myself/data.png)
 
 ---
 
